@@ -1,0 +1,9 @@
+name: AfeliaVoid
+version: 1.0
+description: A plugin to create void worlds in Minecraft.
+main: com.example.AfeliaVoid.AfeVoid
+author: YourName
+commands:
+  afevoid:
+    description: Create a void world
+    usage: /afevoid <worldname>
