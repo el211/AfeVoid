@@ -1,9 +1,9 @@
-name: AfeliaVoid
+name: VoidAfeLiagen
 version: 1.0
-description: A plugin to create void worlds in Minecraft.
-main: com.example.AfeliaVoid.AfeVoid
-author: YourName
+main: com.example.voidafeliagen.AfeVoid
+description: Bukkit plugin for generating and managing a void world.
+author: Elias
 commands:
   afevoid:
-    description: Create a void world
-    usage: /afevoid <worldname>
+    description: Create or reset the void world
+    usage: /afevoid
